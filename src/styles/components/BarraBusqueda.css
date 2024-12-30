@@ -1,0 +1,25 @@
+.busqueda-container{
+    background: #01aeaf;
+    padding: 10px 10px;
+    color: #ffffff;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.busqueda-container>div>div{
+    display: grid;
+}
+.busqueda-container>div>div:last-child{
+    text-align: right;
+}
+
+.btn-buscar-container{
+    display: grid;
+    align-items: center;
+    justify-content: end;
+}
+
+.btn-buscar-container>button{
+   background: #ffffff;
+   color: #01aeaf;
+   font-weight: 700;
+}

@@ -1,0 +1,11 @@
+.not-found-container{
+ background: #ffffff;
+ text-align: center;
+ color: #4a5360;
+ font-weight: 800;
+ font-size: 30px;
+ padding: 15px;
+}
+.not-found-container>img{
+    width: 500px;
+}

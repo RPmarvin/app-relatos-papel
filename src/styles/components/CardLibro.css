@@ -1,0 +1,40 @@
+.card-container{
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+    width: 225px !important;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    background: #ffffff;
+    display: grid;
+    align-content: space-between;
+}
+
+.img-container>img{
+    width: 200px;
+}
+
+.datelle-container{
+    color: #313942;
+    font-size: 14px;
+    text-align: justify;
+    display: grid;
+}
+.datelle-container>label{
+    margin-top: 10px;
+}
+
+.datelle-container>label:first-child{
+    font-weight: 600;
+    color: #01aeaf;
+}
+.datelle-container>label:nth-child(2){
+    font-weight: 500;
+    color: #4a5360;
+}
+.datelle-container>label:last-child{
+    font-weight: 600;
+}
+
+.boton-contaniner{
+    text-align: center;
+}

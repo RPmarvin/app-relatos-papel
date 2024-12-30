@@ -1,0 +1,18 @@
+.carrito-container{
+    padding: 10px;
+}
+
+.carrito-container>div>div:first-child{
+    text-align: center;
+}
+
+.carrito-container>div>div:nth-child(2){
+    font-weight: 600;
+}
+.carrito-container>div>div:nth-child(2)>h4{
+    color: #01aeaf;
+}
+
+.carrito-container>div>div:last-child{
+    text-align: right;
+}

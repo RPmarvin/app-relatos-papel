@@ -1,0 +1,24 @@
+.detalle-container{
+    margin: 20px 15%;
+    background: #ffffff;
+}
+
+.detalle-texto-container{
+    font-weight: 600;
+}
+
+.detalle-texto-container>h2{
+    color: #01aeaf;
+}
+
+.resumen-container{
+    font-weight: 600;
+}
+
+.resumen-container>h2{
+    color: #01aeaf;
+}
+
+.portada{
+    width: 300px;
+}

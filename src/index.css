@@ -1,0 +1,27 @@
+button{
+    border: none !important;
+    border-radius: 15px !important;
+    padding: 5px !important;
+    width: 160px !important;
+    cursor: pointer !important;
+    margin-top: 10px !important;
+}
+
+button:hover{
+    width: 165px;
+    font-size: 18px;
+}
+
+input {
+    border: 1px solid #ffffff;
+    border-radius: 15px;
+    padding: 5px 15px;
+    color: #4a5360;
+    font-size: 16px; 
+    outline: none; 
+}
+
+.boton-principal{
+    background: #01aeaf;
+    color: #ffffff;
+}

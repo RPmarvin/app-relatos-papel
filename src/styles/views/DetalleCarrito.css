@@ -1,0 +1,29 @@
+.detalle-carrito-container{
+    margin-top: 15px;
+    margin-left: 20px;
+    min-height: 80vh;
+}
+
+.detalle-carrito-container>div{
+    width: 99%;
+}
+
+.cuerpo-carrito-container{
+    margin: 5px 0px;
+    background: #ffffff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.cuerpo-carrito-container>div:first-child{
+    padding: 5px;
+    border-bottom: 1px solid rgb(196, 194, 194);
+}
+.cuerpo-carrito-container>div:first-child>div:last-child{
+    text-align: right;
+    padding-top: 10px;
+}
+
+.subtotal-container{
+    text-align: right;
+    padding: 5px;
+}
